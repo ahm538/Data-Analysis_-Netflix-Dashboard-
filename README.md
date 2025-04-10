@@ -23,18 +23,19 @@ Created calculated columns for analysis (e.g., Yearly trends).
 ### 4. Data Visualization
 Two report pages were created:
 
-## Page 1: General Overview
+#### Page 1: General Overview
 Total number of titles since 2020.
 Runtime, IMDB, and TMDB averages.
 Yearly release trend chart.
 Most frequent actors and directors.
 Movies vs. Shows ratio.
 
-## Page 2: Deep Dive into Movies
+#### Page 2: Deep Dive into Movies
 Vote Average, Vote Count, and Popularity indicators.
 Top genres by vote average.
 Top productive countries in film production.
 Most popular movies by vote count.
 World map of production countries.
 Detailed table showing actor roles and movie names.
+
 ![](https://github.com/ahm538/Data-Analysis_-Netflix-Dashboard-/blob/main/Netflix%20Dashboard.png)
